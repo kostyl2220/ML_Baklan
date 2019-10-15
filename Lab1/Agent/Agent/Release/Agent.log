@@ -1,0 +1,9 @@
+﻿  GUI.cpp
+e:\ip-91mn\9 semester\ml_baklan\lab1\agent\agent\gui.cpp(159): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+e:\ip-91mn\9 semester\ml_baklan\lab1\agent\agent\gui.cpp(171): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Generating code
+  6 of 265 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Agent.vcxproj -> E:\IP-91mn\9 semester\ML_Baklan\Lab1\Agent\Release\Agent.exe

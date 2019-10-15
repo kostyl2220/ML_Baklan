@@ -1,0 +1,4 @@
+﻿  GUI.cpp
+e:\ip-91mn\9 semester\ml_baklan\lab1\agent\agent\gui.cpp(159): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+e:\ip-91mn\9 semester\ml_baklan\lab1\agent\agent\gui.cpp(171): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Agent.vcxproj -> E:\IP-91mn\9 semester\ML_Baklan\Lab1\Agent\Debug\Agent.exe
