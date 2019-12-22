@@ -1,0 +1,3 @@
+﻿  SA.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\tgmath.h(27): warning UCRT4000: The Universal CRT implementation of tgmath.h does not conform to the C99 standard. Functionality equivalent to the type-generic functions provided by tgmath.h is available in <ctgmath> when compiling as C++. If compiling in C++17 mode or higher (/std:c++17), this header will automatically include <ctgmath> instead. You can define _CRT_SILENCE_NONCONFORMING_TGMATH_H to acknowledge that you have received this warning.
+  ConsoleApplication4.vcxproj -> C:\Users\kosty\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe

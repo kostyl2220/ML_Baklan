@@ -1,0 +1,8 @@
+﻿  ConsoleApplication6.cpp
+e:\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 205 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication6.vcxproj -> E:\Projects\ConsoleApplication6\Release\ConsoleApplication6.exe

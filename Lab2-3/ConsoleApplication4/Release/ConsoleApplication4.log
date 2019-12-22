@@ -1,0 +1,8 @@
+﻿  ConsoleApplication4.cpp
+e:\ip-91mn\9 semester\ml_baklan\lab2-3\consoleapplication4\consoleapplication4.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  10 of 129 functions ( 7.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication4.vcxproj -> E:\IP-91mn\9 semester\ML_Baklan\Lab2-3\Release\ConsoleApplication4.exe
